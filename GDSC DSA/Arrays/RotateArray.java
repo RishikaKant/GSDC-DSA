@@ -19,7 +19,6 @@ public class RotateArray {
 
         System.out.println("Enter the elements of the array: ");
         for (int i=0;i<N;i+=1){
-            //Scanner input = new Scanner(System.in);
             arr[i]=input.nextInt();
         }
 
